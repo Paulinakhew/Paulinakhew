@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Paulina Khew!
-
+<img align="right" alt="GIF" src="https://github.com/Paulinakhew/wiki/blob/master/.gitbook/assets/happy.gif" />
 - 🔭 I’m currently working on Shopify's open-source libraries during my Winter 2021 internship
 - 🏫 I'm going into my third year of Systems Design Engineering at the University of Waterloo
 - 📖 I try to update my [wiki](https://wiki.paulinakhew.me/) as much as possible, go check it out!
