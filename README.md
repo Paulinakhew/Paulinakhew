@@ -3,6 +3,7 @@ I'm Paulina Khew!
 <img align="right" alt="GIF" src="https://github.com/Paulinakhew/wiki/blob/master/.gitbook/assets/happy.gif" />
 
 - <img src="static/shopify_logo.png" width=15> Developer intern on the Docs and API Libraries team at Shopify
+  - <img src="static/shopify_logo.png" width=15> let's <img src="static/shopify_logo.png" width=15> get <img src="static/shopify_logo.png" width=15> this <img src="static/shopify_logo.png" width=15>bag <img src="static/shopify_logo.png" width=15> :exclamation::smiling_imp::moneybag::money_with_wings:🤑
 - <img src="static/uw_logo.svg" width=15> Systems Design Engineering student at the University of Waterloo
 - 🔭 I’m currently working on Shopify's open-source libraries
 - 📖 I try to update my [wiki](https://wiki.paulinakhew.me/) as much as possible, go check it out!
