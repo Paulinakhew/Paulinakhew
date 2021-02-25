@@ -14,6 +14,10 @@ I'm Paulina Khew!
 - 🥅 My goal is to do 1 GitHub commit every day, so if you want my help with something, just tag me
 - ⚡ Fun fact: I love to draw and do calligraphy 👩🏻‍🎨
 
-<br>
-<img align="left" alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinakhew&theme=cobalt" />
-<img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=paulinakhew&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinakhew&theme=cobalt&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulinakhew&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true" />
+</a>
