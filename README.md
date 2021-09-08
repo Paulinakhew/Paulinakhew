@@ -4,7 +4,7 @@ I'm Paulina Khew!
 
 - <img src="static/shopify_logo.png" width=15> Backend developer intern on the Billing Platform team at Shopify
 - <img src="static/uw_logo.svg" width=15> 3B Systems Design Engineering student at the University of Waterloo
-- 🔭 I’m currently working on upgrading my [StackOverflow profile](https://stackoverflow.com/users/15100309/paulina-khew) 😩
+- 🔭 I’m currently working on upgrading my StackOverflow profile 😩
 - 📖 I try to update my [wiki](https://wiki.paulinakhew.me/) as much as possible, go check it out!
 - 🎧 current project: my [Spotify playlist generator](https://create-spotify-playlist.herokuapp.com/) that parses a list of songs and adds it to a new playlist on Spotify
 - 🌱 I'm currently learning more about <img src="static/ruby_logo.png" width=15> Ruby using [this free educative course](https://www.educative.io/courses/learn-ruby-from-scratch)
