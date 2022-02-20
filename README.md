@@ -3,6 +3,7 @@ I'm Paulina Khew!
 <img align="right" alt="GIF" src="https://github.com/Paulinakhew/wiki/blob/master/.gitbook/assets/happy.gif" />
 
 - <img src="static/shopify_logo.png" width=15> Just completed an internship as a backend developer intern on the Billing Platform team at Shopify
+- <img src="static/twitch_logo.png" width=15> Incoming software engineering intern at Twitch on the Video Org this summer
 - <img src="static/uw_logo.svg" width=15> Currently a 3B Systems Design Engineering student at the University of Waterloo
 - 🔭 I’m currently working on upgrading my StackOverflow profile
 - 📖 I try to update my [wiki](https://wiki.paulinakhew.me/) as much as possible, go check it out!
